@@ -1,0 +1,137 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz@6..96&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni&family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('http://fonts.cdnfonts.com/css/manga-temple');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+body {
+    background-image: url(/backgrounds/background.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+
+
+.main {
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+h1 {
+    font-size:35px;
+    margin: auto;
+    text-align: center;
+}
+
+#time {
+    font-size: 140px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: 'Manga Temple', sans-serif;
+    color: black;
+
+}
+#greet {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 100px;
+    color: #3D3D3D;
+
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-bar {
+    background-color: #000000b6;
+    border-radius: 17px;
+    outline: white;
+    border: none;
+    width: 500px;
+    height: 50px;
+    margin-top: 40px;
+    text-align: center !important;
+    display: flex;
+ 
+}
+
+
+.search-bar input  {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 24px 20px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+
+.search-bar button i {
+  width: 25px;
+  font-size: 27px;
+  color: #ffffff86;
+}
+
+.search-bar button {
+    border: 0;
+    border-radius: 60px;
+    width: 44px;
+    height: 45px;
+    background: #000000b6;
+    cursor: pointer;
+    justify-content: center;
+    transform: translateX(-5px);
+    scale: 0.9;
+   
+}
+
+.search-bar button:hover {
+    background: #ffffff86;
+  
+}
+.search-bar button i:hover {
+    color: #000000b6;
+  
+}
+   
+
+
+#quote {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(243, 238, 237);
+    font-size: 25px;
+    font-style: italic ;
+    text-align: center;
+    background: #00000098;
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 320px 300px 10px 300px ;
+    padding: 14px;
+
+
+}
+
+@media only screen and (min-width: 1370px) and (max-width:1605px) {
+    #quote {
+        margin-top: 200px;
+    }
+    
+}
+
+@media only screen and (min-width: 1030px) and (max-width:1366px) {
+    #quote {
+        margin-top: 130px;
+    }
+    
+}
+

@@ -1,0 +1,26 @@
+{
+    "name" : "Vagabond: Manga Theme with Musashi quotes.",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "description" : "Your aesthetic Vagabond Manga theme with inspirational quotes from Miyamoto Musashi.",
+    "chrome_url_overrides" : {
+        "newtab": "home.html",
+        "css": ["./css/style.css"] 
+    },
+    "icons": { 
+        "16": "./icons/icon16.png",
+        "48": "./icons/icon48.png",
+        "128": "./icons/icon128.png" },
+
+    "action": {
+        "default_icon": { 
+            "16": "./icons/icon16.png",
+            "48": "./icons/icon48.png",
+            "128": "./icons/icon128.png"
+
+        }
+        
+    }
+    
+    
+}
