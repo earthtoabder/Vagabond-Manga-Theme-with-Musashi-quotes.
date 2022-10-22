@@ -17,3 +17,4 @@ Brfs
 ```
 
 - For the quotes I made a simple  python web scrapper for **quotecatalog.com** you can find the repository on my profile or here's the link for it:
+https://github.com/earthtoabder/quotecatalog-webscrapper
