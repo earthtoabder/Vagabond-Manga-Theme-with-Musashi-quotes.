@@ -1,7 +1,7 @@
 # Vagabond-Manga-Theme-with-Musashi-quotes.
 An aesthetic Vagabond Manga theme chrome extension with inspirational quotes from Miyamoto Musashi that replaces the default chrome tab.
 
- - Here's the link to the chrome extension account : 
+ - Here's the link to the chrome extension: 
 https://chrome.google.com/webstore/detail/vagabond-manga-theme-with/bikhodgibighkhfcnccfdajgamabpghh
 - And Here's my Twitter account if you need me for anything :
 https://twitter.com/abdeeeer
